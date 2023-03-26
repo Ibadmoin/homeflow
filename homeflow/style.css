@@ -77,6 +77,8 @@ body{
   text-decoration: none;
   color: red;
   font-size: 1.8em;
+  font-family: cursive;
+  text-shadow: #000 5px 5px 5px;
   
   
  
@@ -84,6 +86,8 @@ body{
 .sec1-headings {
   font-size: 1.5em;
   text-transform: uppercase;
+  color: #FFFFFF;
+  text-shadow: #000 5px 5px 5px;
 
 }
 .explore-like-btn{
